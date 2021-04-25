@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/laporan-keuangan-sederhana/static/css/main.a7cd11a8.chunk.css",
+    "main.js": "/laporan-keuangan-sederhana/static/js/main.c2db891c.chunk.js",
+    "main.js.map": "/laporan-keuangan-sederhana/static/js/main.c2db891c.chunk.js.map",
+    "runtime-main.js": "/laporan-keuangan-sederhana/static/js/runtime-main.e9f3f0d4.js",
+    "runtime-main.js.map": "/laporan-keuangan-sederhana/static/js/runtime-main.e9f3f0d4.js.map",
+    "static/js/2.05ae8ccb.chunk.js": "/laporan-keuangan-sederhana/static/js/2.05ae8ccb.chunk.js",
+    "static/js/2.05ae8ccb.chunk.js.map": "/laporan-keuangan-sederhana/static/js/2.05ae8ccb.chunk.js.map",
+    "static/js/3.dde75710.chunk.js": "/laporan-keuangan-sederhana/static/js/3.dde75710.chunk.js",
+    "static/js/3.dde75710.chunk.js.map": "/laporan-keuangan-sederhana/static/js/3.dde75710.chunk.js.map",
+    "index.html": "/laporan-keuangan-sederhana/index.html",
+    "static/css/main.a7cd11a8.chunk.css.map": "/laporan-keuangan-sederhana/static/css/main.a7cd11a8.chunk.css.map",
+    "static/js/2.05ae8ccb.chunk.js.LICENSE.txt": "/laporan-keuangan-sederhana/static/js/2.05ae8ccb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e9f3f0d4.js",
+    "static/js/2.05ae8ccb.chunk.js",
+    "static/css/main.a7cd11a8.chunk.css",
+    "static/js/main.c2db891c.chunk.js"
+  ]
+}
