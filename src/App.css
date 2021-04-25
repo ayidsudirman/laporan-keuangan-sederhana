@@ -1,0 +1,66 @@
+h3,
+h4 {
+  text-align: center;
+  color: darkslategrey;
+}
+
+h3 {
+  padding-top: 1.5em;
+}
+
+h4 {
+  padding-top: 0.25em;
+  font-weight: normal;
+}
+
+table {
+  width: 98%;
+  min-width: 768px;
+  margin: 0 auto;
+}
+
+table,
+th,
+td {
+  border: 1px solid #f2f2f2;
+  border-collapse: collapse;
+  padding: 5px;
+  color: darkslategrey;
+}
+
+tbody tr:nth-child(odd) {
+  background-color: #f2f2f2;
+}
+
+tbody tr:hover,
+tfoot tr:hover {
+  background-color: goldenrod;
+}
+
+th,
+tfoot {
+  text-align: center;
+}
+
+tfoot {
+  font-weight: bold;
+}
+
+span {
+  float: left;
+}
+
+.center {
+  text-align: center;
+}
+
+.header {
+  background-color: #f2f2f2;
+  padding-bottom: 00.25em;
+  margin-bottom: 1em;
+  min-width: 768px;
+}
+
+.right {
+  text-align: right;
+}
